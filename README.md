@@ -6,6 +6,12 @@
   <a href="https://www.linkedin.com/in/dmitry-parshin-98682b263/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+	<a href="https://twitter.com/Dimaska29">
+		<img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+	</a>
+	<a href="https://t.me/Dimaska29">
+		<img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+	</a>
 </div>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=DmitriiParshin&show_icons=true&theme=github_dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DmitriiParshin&layout=compact&theme=github_dark)
