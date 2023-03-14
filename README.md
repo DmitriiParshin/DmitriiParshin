@@ -7,6 +7,4 @@
   Hey there, I'm Dmitry
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-
-[![GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=DmitriiParshin&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/DmitriiParshin/github-readme-stats#gh-dark-mode-only)
-[![GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=DmitriiParshin&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/DmitriiParshin/github-readme-stats#gh-light-mode-only)
+![GitHub stats](ttps://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=github_dark)
